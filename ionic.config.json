@@ -1,0 +1,7 @@
+{
+  "name": "ion-bootstrap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
